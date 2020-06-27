@@ -5,7 +5,8 @@
 
 请大家通过该链接查看讲师课件并进行下载，课件链接:https://pan.baidu.com/s/1NBNdjXI0tjDzNKXf8fvaQQ  密码:kmxb
 
-git源地址:  https://github.com/algorithm011-class01/algorithm011-class01
+git源地址:   https://github.com/algorithm011-class01/algorithm011-class01/issues
+
 
 ## 仓库目录结构说明
 
